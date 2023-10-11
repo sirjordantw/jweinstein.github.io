@@ -8,12 +8,12 @@ h1 {
 }
 
 .assign {
-display: flex;
-padding: 10px;
-margin: 10px;
-background: darkblue;
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+  background: darkblue;
 }
 .assign img {
-width: 200px;
-padding: 10px;
+  width: 200px;
+  padding: 10px;
 }
