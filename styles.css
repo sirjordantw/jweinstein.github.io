@@ -8,7 +8,7 @@ h1 {
 }
 a {
  text-decoration: none; /* remove underlining on anchor tags */
- color: blue; /* pick the color you want */
+ color: skyblue; /* pick the color you want */
 }
 a :hover {
  text-decoration: none; /* remove underlining on anchor tags */
