@@ -6,14 +6,25 @@ h1 {
   color: white;
   text-align: center;
 }
+a {
+ text-decoration: none; /* remove underlining on anchor tags */
+ color: midnightblue; /* pick the color you want */
+}
+a:hover {
+ text-decoration: none; /* remove underlining on anchor tags */
+ color: white; /* pick the color you want */
+}
 
 .assign {
   display: flex;
   padding: 10px;
   margin: 10px;
   background: darkblue;
+  border-radius: 20px; /* curved corners */
 }
 .assign img {
   width: 200px;
   padding: 10px;
+  padding: 10px; /* change this from margin to padding */
+  border: 2px dashed midnightblue; /* try dashed, dotted */
 }
