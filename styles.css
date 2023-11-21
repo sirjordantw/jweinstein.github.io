@@ -29,7 +29,7 @@ a :hover {
   background: darkblue;
   border-radius: 20px; /* curved corners */
   width: 20%;
-  box-shadow: 8px 8px darkblue;
+  box-shadow: 8px 8px navy;
   display: block; /* instead of flex */
 }
 
